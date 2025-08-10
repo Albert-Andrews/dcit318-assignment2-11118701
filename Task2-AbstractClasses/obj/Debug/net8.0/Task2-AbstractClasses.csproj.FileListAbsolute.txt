@@ -1,0 +1,14 @@
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/bin/Debug/net8.0/Task2-AbstractClasses
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/bin/Debug/net8.0/Task2-AbstractClasses.deps.json
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/bin/Debug/net8.0/Task2-AbstractClasses.runtimeconfig.json
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/bin/Debug/net8.0/Task2-AbstractClasses.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/bin/Debug/net8.0/Task2-AbstractClasses.pdb
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/Task2-AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/Task2-AbstractClasses.AssemblyInfoInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/Task2-AbstractClasses.AssemblyInfo.cs
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/Task2-AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/Task2-AbstractClasses.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/refint/Task2-AbstractClasses.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/Task2-AbstractClasses.pdb
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/Task2-AbstractClasses.genruntimeconfig.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task2-AbstractClasses/obj/Debug/net8.0/ref/Task2-AbstractClasses.dll
