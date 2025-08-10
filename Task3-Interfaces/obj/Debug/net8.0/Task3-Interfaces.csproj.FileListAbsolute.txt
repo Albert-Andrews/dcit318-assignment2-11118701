@@ -1,0 +1,14 @@
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/bin/Debug/net8.0/Task3-Interfaces
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/bin/Debug/net8.0/Task3-Interfaces.deps.json
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/bin/Debug/net8.0/Task3-Interfaces.runtimeconfig.json
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/bin/Debug/net8.0/Task3-Interfaces.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/bin/Debug/net8.0/Task3-Interfaces.pdb
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/Task3-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/Task3-Interfaces.AssemblyInfoInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/Task3-Interfaces.AssemblyInfo.cs
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/Task3-Interfaces.csproj.CoreCompileInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/Task3-Interfaces.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/refint/Task3-Interfaces.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/Task3-Interfaces.pdb
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/Task3-Interfaces.genruntimeconfig.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task3-Interfaces/obj/Debug/net8.0/ref/Task3-Interfaces.dll
