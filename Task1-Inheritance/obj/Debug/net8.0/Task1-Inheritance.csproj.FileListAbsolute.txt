@@ -1,0 +1,14 @@
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/bin/Debug/net8.0/Task1-Inheritance
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/bin/Debug/net8.0/Task1-Inheritance.deps.json
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/bin/Debug/net8.0/Task1-Inheritance.runtimeconfig.json
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/bin/Debug/net8.0/Task1-Inheritance.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/bin/Debug/net8.0/Task1-Inheritance.pdb
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/Task1-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/Task1-Inheritance.AssemblyInfoInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/Task1-Inheritance.AssemblyInfo.cs
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/Task1-Inheritance.csproj.CoreCompileInputs.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/Task1-Inheritance.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/refint/Task1-Inheritance.dll
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/Task1-Inheritance.pdb
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/Task1-Inheritance.genruntimeconfig.cache
+/Users/albertquaye/Downloads/dcit318-assignment2-11118701/Task1-Inheritance/obj/Debug/net8.0/ref/Task1-Inheritance.dll
